@@ -1,0 +1,12 @@
+{
+  "args_summary": "create_scene(scene_path=res://red_box.tscn)",
+  "files": [
+    {
+      "kind": "created",
+      "path": "res://red_box.tscn"
+    }
+  ],
+  "id": "000001",
+  "timestamp": 1794590280.0,
+  "tool": "create_scene"
+}
