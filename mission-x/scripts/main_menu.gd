@@ -157,7 +157,7 @@ func _rebuild_page() -> void:
 		_build_main_page()
 
 func _build_main_page() -> void:
-	title_label = _make_label("ARCADIA SUBSIST", 34, Color("f2b46d"))
+	title_label = _make_label("MISSION X", 34, Color("f2b46d"))
 	title_label.add_theme_color_override("font_shadow_color", Color("2a1518"))
 	title_label.add_theme_constant_override("shadow_offset_x", 3)
 	title_label.add_theme_constant_override("shadow_offset_y", 3)

@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://c05562ipa7brs"]
+
+[ext_resource type="Script" uid="uid://b1bdu578tc5w0" path="res://scripts/main.gd" id="1_main"]
+
+[node name="ArcadiaSubsist" type="Node2D" unique_id=1952469549]
+script = ExtResource("1_main")
